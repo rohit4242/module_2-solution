@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'lato' , sans-serif;
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+}
