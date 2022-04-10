@@ -1,6 +1,6 @@
 # Module 2 Coding Assignment
 
-Link: ( https://rohit4242.github.io/module_2-solution/)
+Link: https://rohit4242.github.io/module_2-solution/
 
 Woo-hoo! You get to do some coding! Exciting!
 
