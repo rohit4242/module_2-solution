@@ -41,15 +41,3 @@ Here is what you will need to complete the assignment:
 14. Borders and Colors: Each section should have a background color set to some color (of your choosing). Set the background color of each section title region to some unique color (of your choosing). Make sure that the background color still allows the user to view the text in the section and section title regions. Depending on the color you choose, you may want to change the color of the text so it can be easy to read. Set a black border on both the section and section title region that is 1px thick. **Warning: While not specifying borders and colors according to the requirements does not hurt your grade so much, not doing so will make it much harder for your classmates to peer grade the rest of your assignment, possibly resulting in a much lower grade.**
 
 15. (OPTIONAL) _You will NOT be graded on this_, but you may want to explicitly set a font-family for the text in your page, so you are not stuck with the default browser font family. Also, set the font size of the heading and section title to be 75% larger and 25% larger (respectively) than the font size of the dummy text.
-
-Here is the mockup illustration of the desktop version of the site. Your final result should look very close to this mockup.
-
- ![desktop](images/desktop.png)
-
-Here is the mockup illustration of the tablet version of the site. Your final result should look very close to this mockup. Note that in this view, the 3rd section takes up the entire row.
-
- ![tablet](images/tablet.png)
-
-Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
-
- ![mobile](images/mobile.png)
