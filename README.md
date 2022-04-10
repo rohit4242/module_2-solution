@@ -1,6 +1,6 @@
 # Module 2 Coding Assignment
 
-Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+Link: ( https://rohit4242.github.io/module_2-solution/)
 
 Woo-hoo! You get to do some coding! Exciting!
 
